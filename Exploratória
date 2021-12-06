@@ -1,0 +1,13 @@
+## packages
+import pandas as pd
+from scipy import stats
+import statsmodels.api as sm
+
+
+serie = pd.read_excel("IPVA&GASOLINA.xlsx")
+serie['Mês'] = pd.to_datetime(serie['Mês']) 
+serie = serie.set_index('Mês')
+serie.head()
+
+#linear relationship
+stats.pearsonr(serie['IPVA'], serie['Gasolina C (m3)'])

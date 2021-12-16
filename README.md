@@ -1,1 +1,1 @@
-# VARMA
+# Vector Autoregressive Moving-Average (VARMA)

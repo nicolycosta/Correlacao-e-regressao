@@ -1,7 +1,5 @@
 # Vector Autoregressive Moving-Average (VARMA)
 
-    TEMA: Modelos para a projeção de arrecadação de ICMS no Pará.
-
     Nesse trabalho é feito a modelagem para a arrecadação de IPVA (Imposto Sobre Propriedade de Veículo Automotor) no Pará
     e o Índice Geral de Preços - Disponibilidade Interna (IGP-DI), atráves do modelo multivariado Vetor autoregressivo
     de médias móveis (VARMA).

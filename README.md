@@ -1,6 +1,6 @@
 # Vector Autoregressive Moving-Average (VARMA)
 
-    Nesse trabalho é feito a modelagem para a arrecadação de IPVA (Imposto Sobre Propriedade de Veículo Automotor) no Pará
+    Nesse trabalho é feito a modelagem para a arrecadação de IPVA (Imposto Sobre Propriedade de Veículo Automotores) no Pará
     e o Índice Geral de Preços - Disponibilidade Interna (IGP-DI), atráves do modelo multivariado Vetor autoregressivo
     de médias móveis (VARMA).
     A base de dados do IPVA foi retirado do site da SEFA(http://www.sefa.pa.gov.br/index.php/receitas-despesas)
